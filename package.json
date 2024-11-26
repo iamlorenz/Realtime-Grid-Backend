@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "description": "A basic Express application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.0.0",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7",
+    "ws": "^8.18.0"
+  }
+}

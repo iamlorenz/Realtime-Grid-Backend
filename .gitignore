@@ -1,0 +1,15 @@
+node_modules/
+dist/
+build/
+.npm/
+.env
+.env.local
+.DS_Store
+*.log
+npm-debug.log*
+
+.github-credentials.json
+.gitconfig
+.bash_logout
+.bashrc
+.profile
